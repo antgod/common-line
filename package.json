@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "commander": "^2.18.0",
+    "common-bin": "^2.7.3",
+    "shelljs": "^0.8.2",
+    "yargs": "^12.0.2"
+  }
+}

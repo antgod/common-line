@@ -1,0 +1,10 @@
+{
+  "name": "my-helper",
+  "version": "1.0.0",
+  "bin": {
+    "my-helper": "bin/my-helper.js"
+  },
+  "dependencies": {
+    "common-bin": "^2.7.3"
+  }
+}
